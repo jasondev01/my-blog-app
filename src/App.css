@@ -23,8 +23,8 @@ h1, h2, h3, h4, h5, p {
   display: flex;
 }
 
-.header h1,
-.footer h1 {
+.header h1 a,
+.footer h1 a{
   font-size: 55px;
   color: #444;
   font-weight: 700;
